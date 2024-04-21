@@ -1,31 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>JustForFun</title>
-    <link>https://gusanzheng.github.io/</link>
-    <description>Recent content on JustForFun</description>
-    <image>
-      <title>JustForFun</title>
-      <url>https://gusanzheng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://gusanzheng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.125.2</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 21 Apr 2024 18:30:29 +0800</lastBuildDate>
-    <atom:link href="https://gusanzheng.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>20240421</title>
-      <link>https://gusanzheng.github.io/posts/20240421/</link>
-      <pubDate>Sun, 21 Apr 2024 18:30:29 +0800</pubDate>
-      <guid>https://gusanzheng.github.io/posts/20240421/</guid>
-      <description>2024/04/21 这个世界不是非黑即白，而是一道精致的灰。</description>
-    </item>
-    <item>
-      <title>Hi</title>
-      <link>https://gusanzheng.github.io/posts/hi/</link>
-      <pubDate>Sun, 21 Apr 2024 18:11:07 +0800</pubDate>
-      <guid>https://gusanzheng.github.io/posts/hi/</guid>
-      <description>你好，世界 </description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Syhe Home Site</title>
+        <link>http://gusanzheng.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>xxx (syhe)</managingEditor>
+            <webMaster>xxx (syhe)</webMaster><lastBuildDate>Sun, 21 Apr 2024 19:30:07 &#43;0800</lastBuildDate>
+            <atom:link href="http://gusanzheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Hi</title>
+    <link>http://gusanzheng.github.io/hi/</link>
+    <pubDate>Sun, 21 Apr 2024 19:30:07 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://gusanzheng.github.io/hi/</guid>
+    <description><![CDATA[<h1 id="hi-there">Hi, there</h1>
+<p>你好, 世界!</p>
+]]></description>
+</item>
+</channel>
 </rss>
